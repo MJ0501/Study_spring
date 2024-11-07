@@ -1,4 +1,4 @@
-package toby.thirdspring.learningtest;
+package toby.hellospring.learningtest;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

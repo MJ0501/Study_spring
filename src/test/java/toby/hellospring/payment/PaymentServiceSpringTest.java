@@ -1,4 +1,4 @@
-package toby.thirdspring.payment;
+package toby.hellospring.payment;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -6,7 +6,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
-import toby.thirdspring.TestPaymentConfig;
+import toby.hellospring.TestPaymentConfig;
 
 import java.io.IOException;
 import java.math.BigDecimal;

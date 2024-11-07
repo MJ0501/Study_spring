@@ -1,11 +1,11 @@
-package toby.thirdspring;
+package toby.hellospring;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import toby.thirdspring.exrate.CachedExRateProvider;
-import toby.thirdspring.payment.ExRateProvider;
-import toby.thirdspring.exrate.WebApiExRateProvider;
-import toby.thirdspring.payment.PaymentService;
+import toby.hellospring.exrate.CachedExRateProvider;
+import toby.hellospring.payment.ExRateProvider;
+import toby.hellospring.exrate.WebApiExRateProvider;
+import toby.hellospring.payment.PaymentService;
 
 import java.time.Clock;
 

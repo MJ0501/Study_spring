@@ -1,7 +1,7 @@
-package toby.thirdspring.exrate;
+package toby.hellospring.exrate;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import toby.thirdspring.payment.ExRateProvider;
+import toby.hellospring.payment.ExRateProvider;
 
 import java.io.BufferedReader;
 import java.io.IOException;

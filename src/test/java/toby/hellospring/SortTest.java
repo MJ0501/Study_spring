@@ -1,4 +1,4 @@
-package toby.thirdspring;
+package toby.hellospring;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
